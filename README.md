@@ -21,6 +21,8 @@ This project is intended as a minimal working example for medical physics instru
 
 ## Notes
 
+This repository contains experimental FPGA readout code developed for medical physics instrumentation research.
+
 This is an experimental implementation, not an official TI reference design.
 Timing and pin assignments should be verified for each hardware setup.
 
