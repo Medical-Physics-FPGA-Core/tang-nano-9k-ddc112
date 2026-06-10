@@ -24,3 +24,4 @@ This project is intended as a minimal working example for medical physics instru
 This is an experimental implementation, not an official TI reference design.
 Timing and pin assignments should be verified for each hardware setup.
 
+Constraint files are currently placed under src/ for simplicity.
