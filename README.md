@@ -1,3 +1,4 @@
+<img width="1536" height="2048" alt="IMG_5650" src="https://github.com/user-attachments/assets/f4167270-3db4-4d87-b112-6cfbf8c4dc7e" />
 # tang-nano-9k-ddc112
 
 Experimental FPGA readout implementation for the TI DDC112 using the Sipeed Tang Nano 9K.
