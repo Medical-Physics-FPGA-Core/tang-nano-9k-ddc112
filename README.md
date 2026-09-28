@@ -52,12 +52,9 @@ Constraint files are currently placed under src/ for simplicity.
 
 ## Acknowledgements
 
-The DDC112 analog front-end design and overall system architecture were
-developed with reference to Frédérik Berthiaume's
-[Picoammeter project on Hackaday.io](https://hackaday.io/project/176095-picoammeter).
+This project was inspired in part by Frédérik Berthiaume's
+[Picoammeter project on Hackaday.io](https://hackaday.io/project/176095-picoammeter),
+which uses the DDC112 analog front end with an FPGA-based readout.
 
-That project provided a useful reference for the DDC112 PCB design,
-analog/digital separation, and FPGA-based readout approach.
-
-This repository implements the system for the Tang Nano 9K FPGA with
-independently developed FPGA logic and hardware modifications.
+The hardware and FPGA implementation in this repository were developed
+independently for the Tang Nano 9K platform.
