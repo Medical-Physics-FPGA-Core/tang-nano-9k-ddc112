@@ -34,6 +34,13 @@ This project is intended as a minimal working example for medical physics instru
 - Photodiode input
 - External level shifting may be required depending on logic levels
 
+KiCad design files are available in:
+
+[`hardware/kicad/`](hardware/kicad/)
+
+The PCB was designed around the Texas Instruments DDC112
+dual-channel current-input ADC.
+
 ## Notes
 
 This repository contains experimental FPGA readout code developed for medical physics instrumentation research.
@@ -42,3 +49,15 @@ This is an experimental implementation, not an official TI reference design.
 Timing and pin assignments should be verified for each hardware setup.
 
 Constraint files are currently placed under src/ for simplicity.
+
+## Acknowledgements
+
+The DDC112 analog front-end design and overall system architecture were
+developed with reference to Frédérik Berthiaume's
+[Picoammeter project on Hackaday.io](https://hackaday.io/project/176095-picoammeter).
+
+That project provided a useful reference for the DDC112 PCB design,
+analog/digital separation, and FPGA-based readout approach.
+
+This repository implements the system for the Tang Nano 9K FPGA with
+independently developed FPGA logic and hardware modifications.
