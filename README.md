@@ -34,13 +34,6 @@ This project is intended as a minimal working example for medical physics instru
 - Photodiode input
 - External level shifting may be required depending on logic levels
 
-KiCad design files are available in:
-
-[`hardware/kicad/`](hardware/kicad/)
-
-The PCB was designed around the Texas Instruments DDC112
-dual-channel current-input ADC.
-
 ## Notes
 
 This repository contains experimental FPGA readout code developed for medical physics instrumentation research.
