@@ -42,6 +42,11 @@ Timing and pin assignments should be verified for each hardware setup.
 
 Constraint files are currently placed under src/ for simplicity.
 
+## Demo
+
+Real-time photodiode measurement using the Tang Nano 9K and DDC112.
+[Watch the demonstration video on YouTube](https://youtu.be/cdM2_N08YOs)
+
 ## Acknowledgements
 
 The DDC112 analog front-end design was developed with reference to
