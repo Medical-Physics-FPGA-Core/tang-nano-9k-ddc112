@@ -53,7 +53,7 @@ A 5000-sample open-input test at 0.5 ms integration and 50 pC full scale showed 
 
 Grounding the enclosure reduced the corrected RMS fluctuation by roughly **33–32×** compared with the isolated case.
 
-See [`./docs/README_noise_test.md`](README_noise_test.md) for details.
+See [`README_noise_test.md`](./docs/README_noise_test.md) for details.
 
 The isolated-enclosure waveform contains a dominant \~60 Hz component in both channels, consistent with mains pickup; this component is strongly suppressed when the enclosure is grounded.
 
