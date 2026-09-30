@@ -86,15 +86,5 @@ Reference: Texas Instruments, *DDC112 Dual Current Input 20-Bit Analog-to-Digita
 
 - `images/timeseries_case_grounded.png`
 - `images/timeseries_case_isolated.png`
-- `../summary_metrics.csv`
+- `data/summary_metrics.csv`
 
-## Next measurements
-
-Planned next steps:
-
-- Calibrate A/B offsets independently
-- Repeat after a fixed warm-up period
-- Compare open input vs. input short
-- Inject a known small current
-- Acquire 10,000–100,000 samples for PSD and Allan-deviation analysis
-- Log temperature during long-term drift tests
